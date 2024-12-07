@@ -43,7 +43,6 @@ INSTALLED_APPS = [
 
     # apps
     'apps.cms',
-    'apps.users',
     'apps.settings',
     'apps.secondary',
 
